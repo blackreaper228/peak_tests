@@ -6710,12 +6710,12 @@ let map = null;
             'https://butovo-prom.ru'
         ];
         const ADDITIONAL_MARKER_ICONS = [
-            'balashiha.png', 
-            'tokarevo.png',
-            'kuvekino.png',
-            'senkino.png',
-            'sokolovo.png',
-            'butovo.png',
+            'https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp', 
+            'https://optim.tildacdn.com/tild6265-3464-4432-b864-613863366136/-/format/webp/tokarevo.png.webp',
+            'https://optim.tildacdn.com/tild3239-3766-4263-b261-346562666462/-/format/webp/kuvekino.png.webp',
+            'https://optim.tildacdn.com/tild3038-6536-4530-a130-313166313339/-/format/webp/senkino.png.webp',
+            'https://optim.tildacdn.com/tild3130-3037-4062-b735-613533393333/-/resize/129x/-/format/webp/Map_pin.png.webp',
+            'https://optim.tildacdn.com/tild3330-3430-4334-b138-303436646366/-/format/webp/butovo.png.webp',
             DEFAULT_PIN_URL
         ];
         // const ADDITIONAL_MARKER_ICONS = [
