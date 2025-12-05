@@ -6702,12 +6702,12 @@ let map = null;
             [37.571947, 55.524691]
         ];
         const LINK_URLS = [
-            'https://balashiha-prom.ru',
-            'https://tokarevo-prom.ru',
-            'https://kuvekino-prom.ru',
-            'https://sokolovo-prom.r',
-            'https://sokolovo-prom.ru',
-            'https://butovo-prom.ru'
+            'https://balashiha-prom.ru/?from=landing_map',
+            'https://tokarevo-prom.ru/?from=landing_map',
+            'https://kuvekino-prom.ru/?from=landing_map',
+            'https://senkino-prom.ru/?from=landing_map',
+            'https://sokolovo-prom.ru/?from=landing_map',
+            'https://butovo-prom.ru/?from=landing_map'
         ];
         const ADDITIONAL_MARKER_ICONS = [
             'https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp', 
