@@ -6705,7 +6705,7 @@ let map = null;
             'https://balashiha-prom.ru',
             'https://tokarevo-prom.ru',
             'https://kuvekino-prom.ru',
-            'https://senkino-prom.ru',
+            'https://sokolovo-prom.r',
             'https://sokolovo-prom.ru',
             'https://butovo-prom.ru'
         ];
