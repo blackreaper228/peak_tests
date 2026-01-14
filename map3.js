@@ -6662,10 +6662,10 @@ document.addEventListener("DOMContentLoaded", () => {
       [37.195831, 55.565071],
     ];
     const LINK_URLS = [
-      "https://balashiha-prom.ru",
-      "https://tokarevo-prom.ru",
-      "https://kuvekino-prom.ru",
-      "https://sokolovo-prom.ru",
+      "https://balashiha-prom.ru/?from=landing_map",
+      "https://tokarevo-prom.ru/?from=landing_map",
+      "https://kuvekino-prom.ru/?from=landing_map",
+      "https://sokolovo-prom.ru/?from=landing_map",
     ];
     const ADDITIONAL_MARKER_ICONS = [
       "https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp",
