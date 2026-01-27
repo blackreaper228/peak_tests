@@ -6662,10 +6662,10 @@ document.addEventListener("DOMContentLoaded", () => {
       [37.195831, 55.565071],
     ];
     const LINK_URLS = [
-      "https://parametr.space/project/balashiha/?from=landing_map",
+      "https://parametr.space/buy/balashiha?area%5Bfrom%5D=602&area%5Bto%5D=19954&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
       "https://parametr.space/project/tokarevo/?from=landing_map",
-      "https://parametr.space/project/kuvekino/?from=landing_map",
-      "https://parametr.space/project/sokolovo/?from=landing_map",
+      "https://parametr.space/buy/kuvekino?area%5Bfrom%5D=602&area%5Bto%5D=19954&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
+      "https://parametr.space/buy/sokolovo?area%5Bfrom%5D=602&area%5Bto%5D=69375&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
     ];
     const ADDITIONAL_MARKER_ICONS = [
       "https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp",
