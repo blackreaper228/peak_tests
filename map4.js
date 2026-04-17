@@ -6666,8 +6666,8 @@ document.addEventListener("DOMContentLoaded", () => {
     ];
     const ADDITIONAL_MARKER_ICONS = [
       "https://static.tildacdn.com/tild3434-6363-4238-b732-393433393934/tag_balashiha.svg",
-      "https://optim.tildacdn.com/tild3239-3766-4263-b261-346562666462/-/format/webp/kuvekino.png.webp",
-      'https://optim.tildacdn.com/tild3038-6536-4530-a130-313166313339/-/format/webp/senkino.png.webp'
+      "https://static.tildacdn.com/tild3264-3937-4735-b632-353834323065/tag_kuvekino.svg",
+      'https://static.tildacdn.com/tild6335-3765-4262-b439-636234343331/tag_senkino.svg'
     ];
     // const ADDITIONAL_MARKER_ICONS = [
     //     'balashiha.png',
@@ -6682,7 +6682,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const extraMarkerElement = document.createElement("div");
       extraMarkerElement.className = "custom-marker";
       const iconSrc = ADDITIONAL_MARKER_ICONS[idx] || DEFAULT_PIN_URL;
-      extraMarkerElement.innerHTML = `<a href="${LINK_URLS[idx]}" target="_blank"><img style="height:63.97px; width: 54px; min-width: 54px; min-height: 63.97px; transform: translateY(-64px);" src="${iconSrc}" alt=""></a>`;
+      extraMarkerElement.innerHTML = `<a href="${LINK_URLS[idx]}" target="_blank"><img style="height:33.17px; width: 100px; min-width: 100px; min-height: 33.17px; transform: translateY(-33px);" src="${iconSrc}" alt=""></a>`;
 
       const extraMarkerContainer = document.createElement("div");
       extraMarkerContainer.appendChild(extraMarkerElement);
