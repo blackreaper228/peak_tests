@@ -6665,7 +6665,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const LINK_URLS = [
     ];
     const ADDITIONAL_MARKER_ICONS = [
-      "https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp",
+      "https://static.tildacdn.com/tild3434-6363-4238-b732-393433393934/tag_balashiha.svg",
       "https://optim.tildacdn.com/tild3239-3766-4263-b261-346562666462/-/format/webp/kuvekino.png.webp",
       'https://optim.tildacdn.com/tild3038-6536-4530-a130-313166313339/-/format/webp/senkino.png.webp'
     ];
