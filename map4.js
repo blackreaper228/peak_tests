@@ -6682,7 +6682,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const extraMarkerElement = document.createElement("div");
       extraMarkerElement.className = "custom-marker";
       const iconSrc = ADDITIONAL_MARKER_ICONS[idx] || DEFAULT_PIN_URL;
-      extraMarkerElement.innerHTML = `<a href="${LINK_URLS[idx]}" target="_blank"><img style="height:33.17px; width: 100px; min-width: 100px; min-height: 33.17px; transform: translateY(-33px);" src="${iconSrc}" alt=""></a>`;
+      extraMarkerElement.innerHTML = `<img style="height:33.17px; width: 100px; min-width: 100px; min-height: 33.17px; transform: translateY(-33px);" src="${iconSrc}" alt=""></a>`;
 
       const extraMarkerContainer = document.createElement("div");
       extraMarkerContainer.appendChild(extraMarkerElement);
