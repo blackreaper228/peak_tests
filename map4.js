@@ -6659,21 +6659,19 @@ document.addEventListener("DOMContentLoaded", () => {
       "https://optim.tildacdn.com/tild3130-3037-4062-b735-613533393333/-/resize/216x/-/format/webp/Map_pin.png.webp";
     const ADDITIONAL_MARKER_COORDINATES = [
       [38.047673, 55.803061],
-      // [37.912301, 55.626487],
       [37.420644, 55.494288],
-      [37.195831, 55.565071],
+      [37.155443, 55.440994]
     ];
     const LINK_URLS = [
       "https://parametr.space/buy/balashiha?area%5Bfrom%5D=602&area%5Bto%5D=19954&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
-      // "https://parametr.space/project/tokarevo/?from=landing_map",
       "https://parametr.space/buy/kuvekino?area%5Bfrom%5D=602&area%5Bto%5D=19954&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
-      "https://parametr.space/buy/sokolovo?area%5Bfrom%5D=602&area%5Bto%5D=69375&format%5B%5D=format-4&sort=price-asc/?from=landing_map",
+      'https://senkino-prom.ru/?from=landing_map',
+
     ];
     const ADDITIONAL_MARKER_ICONS = [
       "https://optim.tildacdn.com/tild3832-6633-4037-b931-386435396566/-/format/webp/balashiha.png.webp",
-      // "https://optim.tildacdn.com/tild6265-3464-4432-b864-613863366136/-/format/webp/tokarevo.png.webp",
       "https://optim.tildacdn.com/tild3239-3766-4263-b261-346562666462/-/format/webp/kuvekino.png.webp",
-      "https://optim.tildacdn.com/tild3130-3037-4062-b735-613533393333/-/resize/129x/-/format/webp/Map_pin.png.webp",
+      'https://optim.tildacdn.com/tild3038-6536-4530-a130-313166313339/-/format/webp/senkino.png.webp'
     ];
     // const ADDITIONAL_MARKER_ICONS = [
     //     'balashiha.png',
