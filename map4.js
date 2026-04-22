@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const MARKER_COORDINATES = [37.194674, 55.565233];
     const LOCATION = {
       center: CENTER_COORDINATES,
-      zoom: 8.5,
+      zoom: 8.25,
     };
 
     // Initialize map
